@@ -1,0 +1,29 @@
+<html>
+<head>
+<style type="text/css">
+body {
+background-color: #161616;
+font-family:Verdana,Tahoma;
+}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+</head>
+<font size="2" color="#008000"><b><center>Ce vă oferă VIP?</center></b></font><br />
+<font size="1" color="#dadada">
+<UL>
+<LI TYPE=square>Cu 25% mai mult din EURO câștigat</LI><br>
+<LI TYPE=square>Deagle Gratuit</LI><br>
+<LI TYPE=square>De la a 2-a rundă înainte HE + Vest</LI><br>
+<LI TYPE=square>Bonus de 10 HP pentru ucidere</LI><br>
+<LI TYPE=square>Bonus de 15 HP pentru ucidere cu HS</LI><br>
+<LI TYPE=square>200$ bonus pentru ucideri</LI><br>
+<LI TYPE=square>350$ bonus pentru ucideri cu HS</LI><br>
+<LI TYPE=square>De la a 3-a rundă, alegerea a două seturi de arme:</LI><br>
+<LI TYPE=square>* M4A1 + Deagle</LI><br>
+<LI TYPE=square>* AK47 + Deagle</LI><br>
+<LI TYPE=square>Kit de dezamorsare gratuit (ca CT)</LI><br>
+<LI TYPE=square>Status VIP în tabela de scor</LI><br>
+<LI TYPE=square>VIP Chat: u* (alternativ la u@)</LI><br>
+<LI TYPE=square>Prezență pe lista VIP-urilor (/vips)</LI><br>
+</body>
+</html>
