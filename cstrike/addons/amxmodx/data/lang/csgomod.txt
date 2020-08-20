@@ -967,4 +967,12 @@ CSGO_CORE_WITHDRAW_ITEM=\w%s \r(%s) \y(%.2f Euro)
 CSGO_CORE_WITHDRAW_NONE=Na rynku nie ma zadnych twoich skinow!
 CSGO_CORE_WITHDRAW_NO_SKIN=Wybrany skin zostal juz wykupiony!
 CSGO_CORE_PURCHASE_CONFIRMATION=Potwierdzenie wycofania skina z rynku:^n\wSkin: \y%s (%s)^n\wKoszt: \y%.2f Euro^n\wCzy na pewno chcesz \rwycofac\w tego skina?^n^n
-CSGO_CORE_PURCHASE_SUCCESS=Skin^3 %s (%s)^1 zostal pomyslnie wycofany z rynku.
+GO_CORE_PURCHASE_SUCCESS=Skin^3 %s (%s)^1 zostal pomyslnie wycofany z rynku.
+
+[ro]
+CSGO_MENU_EXIT=Ieșire
+CSGO_MENU_PREVIOUS=Anterior
+CSGO_MENU_NEXT=Inainte
+CSGO_MENU_BACK=Inapoi
+CSGO_MENU_YES=Da
+CSGO_MENU_NO=Nu
