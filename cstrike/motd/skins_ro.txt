@@ -1,0 +1,45 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+</head>
+<body style="color: #fff" bgcolor="black">
+<font size="4" color="orange"><b>After joining the server, you must log in.<br>
+To do this type <font color="#f00">/account</font>.</b></font><br>
+<br>
+After logging in, all the necessary information will appear in the upper right-hand corner.<br>
+<br>
+<b><font color ="#ff0000">Pentru fiecare kill sau obiectiv de pe mapa, o sa primesti Euro cu care poti cumpara skin-uri!</font></b><br>
+<br>
+Poti folosi /menu pentru lista completa de comenzi.<br>
+<br>
+<font size="4" color="orange"><b>1. Seteaza Skin (/set)</b></font><br>
+In acest meniu poti seta un skin pe ce arma iti doresti.<br>
+<br>
+<font size="4" color="orange"><b>2. Cumpara Skin (/kup)</b></font><br>
+De aici iti poti cumpara un skin la un anumit pret.<br>
+<br>
+<font size="4" color="orange"><b>3. Extrage Skin (/draw)</b></font><br>
+Aici este locul unde poti extrage un skin. Iti amintim, nu de fiecare data vei primi un skin.<br>
+<br>
+<font size="4" color="orange"><b>4. Skin Market (/market)</b></font><br>
+In acest meniu poti vinde sau cumpara skin-uri de la alti jucatorii.<br>
+<br>
+<font size="4" color="orange"><b>5. Operatiuni (/operations)</b></font><br>
+Poti face diferite operatiuni - misiuni de la care vei primi extra banii.<br>
+<br>
+<font size="4" color="orange"><b>6. Clan-uri (/clans)</b></font><br>
+Clan-urile sunt o echipa de membrii formata de un jucator, care iti aduc un anumit bonus.<br>
+<br>
+<font size="4" color="orange"><b>7. Transfer Banii (/transfer)</b></font><br>
+Aici ai optiunea de a transfera Euro la alti jucatorii.<br>
+<br>
+<font size="4" color="orange"><b>8. Shimb de Skin-uri (/exchange)</b></font><br>
+Cineva are un skin pe care til doresti? In acest meniu poti face schimb cu el!<br>
+<br>
+<font size="4" color="orange"><b>9. Doneaza Skin (/give)</b></font><br>
+Daca ai un skin pe care nul mai folosesti, aici il poti sa il dai la un alt jucator<br>
+<br>
+<font size="4" color="orange"><b>10. Setari HUD (/hud)</b></font><br>
+Poti seta culoarea informatiilor din dreapta sus aici!<br>
+<br>
+</body></html>
